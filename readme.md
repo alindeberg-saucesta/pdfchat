@@ -10,3 +10,5 @@ Install Ollama using Docker
  !python -m venv env
  !source env/bin/activate
 
+ run app with this command:
+ !streamlit run app.py
